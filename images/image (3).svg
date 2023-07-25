@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="tds-icon-cube-outlined" data-name="Icon Cube Oulined" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+		<style type="text/css">
+			.st0{clip-path:url(#SVGID_00000042705046532020476620000006620799893636173704_);}
+			.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#161616;}
+		</style>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" y="0" width="24" height="24"></rect>
+			</defs>
+			<clipPath id="SVGID_00000053535594694942224060000012518136033386484401_">
+				<use xlink:href="#SVGID_1_" style="overflow:visible;"></use>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_00000053535594694942224060000012518136033386484401_);">
+				<path class="st1" d="M11.6,2.3c0.3-0.1,0.6-0.1,0.8,0l7.3,3L12,7.9L4.3,5.3L11.6,2.3z M2.2,6.9v11.7l8.7,2.9V9.8L2.2,6.9z
+					 M13.1,21.5l8.7-2.9V6.9l-8.7,2.9V21.5z M13.2,0.2c-0.8-0.3-1.7-0.3-2.4,0L1.1,4.1C0.5,4.4,0,5.1,0,5.8v13c0,0.8,0.5,1.5,1.2,1.7
+					l9.7,3.3c0.7,0.2,1.4,0.2,2.1,0l9.7-3.3c0.7-0.3,1.2-1,1.2-1.7v-13c0-0.8-0.5-1.4-1.1-1.7L13.2,0.2z"></path>
+			</g>
+		</g>
+	</symbol>
+</svg>
